@@ -1,4 +1,3 @@
-# codealpha_tasks
 # 🎂 Age Calculator Web App
 
 This is a simple and modern **Age Calculator** web application built using **HTML**, **CSS**, and **JavaScript**.  
